@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ShooterRage/Scenes/Levels/Level_30.unity
+  isLoaded: 1
+  isActive: 1
